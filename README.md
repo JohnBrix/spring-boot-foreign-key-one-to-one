@@ -6,3 +6,6 @@ I create foreign key using one to one
 - First open Xampp
 - go with Structure tab > Relation view
 - add id spring_db_fk and persontbl id, then execute
+
+
+Notes: This tutorial ay magiging blue ang id and marereference siya.
